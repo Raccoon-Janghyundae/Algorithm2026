@@ -10,6 +10,13 @@
 [InsertionSorting](./homework/InsertionSort.pde)
 ![AltInsertionSort)](./homework/InsertionSort.png)
 
+# Algorithm2026
+### 3
+
+[MergeSorting](./homework/MergeSort_pde.pde)
+![AltMergeSort)](./homework/MergeSort.png)
+
+
 
 # Algorithm2026
 ### Homework4
