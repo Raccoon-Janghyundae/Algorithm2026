@@ -14,7 +14,7 @@
 ### 3
 
 [MergeSorting](./homework/MergeSort_pde.pde)
-![AltMergeSort)](./homework/MergeSort.png)
+![AltMergeSort)](./homework/mergesort.png)
 
 
 
