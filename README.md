@@ -21,3 +21,9 @@
 
 [QuickSorting](./homework/QuickSort_pde.pde)
 ![AltQuickSort)](./homework/QuickSort.png)
+
+# Algorithm2026
+### Homework5
+
+[HeapSorting](./homework/HeapSort_pde.pde)
+![AltHeapSort)](./homework/HeapSort.png)
