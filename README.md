@@ -4,17 +4,6 @@
 [SelectionSorting](./homework/SelectionSort_pde.pde)
 ![AltSelctionSort)](./homework/SelectionSort.png)
 
-# Algorithm2026
-### Homework2
-
-[InsertionSorting](./homework/InsertionSort.pde)
-![AltInsertionSort)](./homework/InsertionSort.png)
-
-# Algorithm2026
-### Homework3
-
-[MergeSorting](./homework/MergeSort_pde.pde)
-![AltMergeSort)](./homework/MergeSort.png)
 
 # Algorithm2026
 ### Homework4
