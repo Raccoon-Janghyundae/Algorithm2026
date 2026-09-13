@@ -5,4 +5,4 @@
 ![AltSelctionSort)](./homework/SelectionSort.png)
 
 [SelectionSorting](./homework/InsertionSort.pde)
-![Altinsertionsort)](./homework/insertionsort.png)
+![AltInsertionsort)](./homework/Insertionsort.png)
