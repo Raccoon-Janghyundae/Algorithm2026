@@ -7,5 +7,11 @@
 # Algorithm2026
 ### Homework1
 
-[SelectionSorting](./homework/InsertionSort.pde)
-![AltInsertionsort)](./homework/Insertionsort.png)
+[InsertionSorting](./homework/InsertionSort.pde)
+![AltInsertionSort)](./homework/InsertionSort.png)
+
+# Algorithm2026
+### Homework1
+
+[MergeSorting](./homework/MergeSort_pde.pde)
+![AltMergeSort)](./homework/MergeSort.png)
