@@ -36,5 +36,12 @@
 [BubbleSorting](./homework/Bubble.pde)
 ![AltBubbleSort)](./homework/Bubble.png)
 
+# Algorithm2026
+### Homework7
+
+[SortAnimatuin](./homework/SortAnimation.pde)
+![AltSortAnimation)](./homework/SortAnimation.png)
+
+
 
 
