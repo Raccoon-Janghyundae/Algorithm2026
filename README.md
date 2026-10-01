@@ -42,6 +42,14 @@
 [SortAnimatuin](./homework/SortAnimation.pde)
 ![AltSortAnimation)](./homework/SortAnimation.png)
 
+# Algorithm2026
+### Homework8
+
+[SortAnimatuin](./homework/Array.pde)
+![AltSortAnimation)](./homework/Array.png)
+
+<img width="971" height="654" alt="Animation" src="https://github.com/user-attachments/assets/413a4504-7657-4e50-ba2c-b4883c982f16" />
+<video src="https://github.com/user-attachments/assets/비디오_주소.mp4" controls width="600"></video>
 
 
 
