@@ -37,8 +37,4 @@
 ![AltBubbleSort)](./homework/Bubble.png)
 
 
-# Algorithm2026
-### Homework8
 
-[SortAnimation](./homework/SortAnimation.pde) 
-![Alt SortAnimation](./homework/SortAnimation.png)
