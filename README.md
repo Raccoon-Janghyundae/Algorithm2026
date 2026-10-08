@@ -51,5 +51,10 @@
 <img width="971" height="654" alt="Animation" src="https://github.com/user-attachments/assets/413a4504-7657-4e50-ba2c-b4883c982f16" />
 <video src="https://github.com/user-attachments/assets/비디오_주소.mp4" controls width="600"></video>
 
+# Algorithm2026
+### Homework9
 
+[BinarySearchTree](./homework/BinarySearchTree.pde)
+![AltBinarySearchTree)](./homework/BinarySearchTree.png)
+![AltBT)](./homework/BT.png)
 
