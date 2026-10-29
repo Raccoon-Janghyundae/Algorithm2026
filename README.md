@@ -1,4 +1,4 @@
-# Algorithm2026
+<!--# Algorithm2026
 ### Homework1
 
 [SelectionSorting](./homework/SelectionSort_pde.pde)
@@ -56,7 +56,11 @@
 
 [BinarySearchTree](./homework/BinarySearchTree.pde)
 ![AltBinarySearchTree)](./homework/BinarySearchTree.png)
-![AltBT)](./homework/BT.png)
+![AltBT)](./homework/BT.png)-->
 
+| InfixCalculator (Stack) |
+|:---:|
+| [InfixCalculator](./homework/Infix_Calculator.pde) |
+| <img src="./homework/infix_calculator.png" width="750"> |
 
 
