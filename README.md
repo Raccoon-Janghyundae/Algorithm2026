@@ -60,7 +60,7 @@
 
 | InfixCalculator (Stack) |
 |:---:|
-| [InfixCalculator](./homework/Infix_Calculator.pde) |
-| <img src="./homework/infix_calculator.png" width="750"> |
+| [InfixCalculator](./homework/Infix.pde) |
+| <img src="./homework/Infix.png" width="750"> |
 
 
