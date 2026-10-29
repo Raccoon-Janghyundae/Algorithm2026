@@ -58,3 +58,9 @@
 ![AltBinarySearchTree)](./homework/BinarySearchTree.png)
 ![AltBT)](./homework/BT.png)
 
+# Algorithm2026
+### Homework10
+
+[infix](./homework/infix_pde.pde)
+![Altinfix)](./homework/infix.png)
+
