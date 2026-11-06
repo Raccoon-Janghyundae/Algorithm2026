@@ -63,9 +63,5 @@
 | [InfixCalculator](./homework/Infix.pde) |
 | <img src="./homework/Infix.png" width="750"> |
 
-# Algorithm2026
-### Homework10
 
-[Dynamic](./homework/Dynamic_pde.pde)
-![AltDynamic)](./homework/Dynamic.png)
 
