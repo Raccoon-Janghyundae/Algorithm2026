@@ -70,4 +70,19 @@
 ![Dynamic](./homework/Dynamic.png)
 
 
+# Algorithm2026
+### Homework11
+
+[BFS](./homework/BFS_for_a_graph.pde.pde)
+![BFS](./homework/BFS.png)
+
+<video src="https://github.com/user-attachments/assetshttps://github.com/user-attachments/assets/24f8daac-96a5-43a9-8932-4f51534d46aa" controls width="600"></video>
+
+
+
+
+
+
+
+
 
