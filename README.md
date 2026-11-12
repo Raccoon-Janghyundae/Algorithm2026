@@ -73,7 +73,7 @@
 # Algorithm2026
 ### Homework11
 
-[BFS](./homework/BFS_for_a_graph.pde.pde)
+[BFS](./homework/BFS_for_a_graph.pde)
 ![BFS](./homework/BFS.png)
 
 
