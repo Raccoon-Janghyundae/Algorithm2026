@@ -1,4 +1,3 @@
-<img width="608" height="652" alt="BFS" src="https://github.com/user-attachments/assets/f427df84-4800-4e61-a64e-38ea3376d126" />
 # Algorithm2026
 ### Homework1
 
@@ -75,9 +74,10 @@
 ### Homework11
 
 [BFS](./homework/BFS_for_a_graph.pde)
-![BFS](./homework/BFS.png)
+![BFS](./homework/BFS_for_a_graph.png)
+![BFS](./homework/BFS_for_a_graph.gif)
 
-<img width="608" height="652" alt="BFS" src="https://github.com/user-attachments/assets/ebeff0de-b63a-4916-bdde-924dfc8d6d5b" />
+
 
 
 
