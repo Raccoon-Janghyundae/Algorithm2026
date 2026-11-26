@@ -77,6 +77,11 @@
 ![BFS](./homework/BFS_for_a_graph.png)
 ![BFS](./homework/BFS_for_a_graph.gif)
 
+# Algorithm2026
+### Homework12
+
+[Kruskal_](./homework/Kruskal_s_Algorithmpde)
+![Kruskal_](./homework/Kruskal.png)
 
 
 
