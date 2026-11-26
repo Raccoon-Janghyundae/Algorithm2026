@@ -80,7 +80,7 @@
 # Algorithm2026
 ### Homework12
 
-[Kruskal_](./homework/Kruskal_s_Algorithmpde)
+[Kruskal_](./homework/Kruskal_s_Algorithm.pde)
 ![Kruskal_](./homework/Kruskal.png)
 
 
